@@ -2,7 +2,6 @@ Hi there, I am Esteve.
 - 👨🏼‍💻 I’m a PhD Candidate at Autonomous Systems Lab, TUWien, Vienna, Austria.
 - 👨🏼‍💻 I am working as a freelancer. Contact me if you are interested in AI for Robotics.
 - 📫 How to reach me: [evallsmascaro@gmail.com](evallsmascaro@gmail.com)
-
 - 🔭 I’m currently working on **Generative AI for Robotics**, **Human Intention Understanding** and **Multimodal Models**.
 - 📖 Recent works: [ECHO](https://evm7.github.io/ECHO/), to generating **social-aware robots behaviors** conditioned on semantics, and without any robot data!
 - 📖 Recent works: [UNIMASKM](https://evm7.github.io/UNIMASKM-page/), a **universal** approach to address **all variations of motion synthesis task** with a simple masked model.
