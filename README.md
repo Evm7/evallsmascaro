@@ -1,13 +1,11 @@
 Hi there, I am Esteve.
 - 👨🏼‍💻 I’m a PhD Candidate at Autonomous Systems Lab, TUWien, Vienna, Austria.
 - 👨🏼‍💻 I am working as a freelancer. Contact me if you are interested in AI for Robotics.
-- 🔭 I’m currently working on **Generative AI for Robotics**, **Human Intention Understanding** and **Multimodal Models**.
-
- Recent works:
-- 📖 [ECHO](https://evm7.github.io/ECHO/), to generating **social-aware robots behaviors** conditioned on semantics, and without any robot data!
-- 📖 [UNIMASKM](https://evm7.github.io/UNIMASKM-page/), a **universal** approach to address **all variations of motion synthesis task** with a simple masked model.
-- 📖 [SAW](https://evm7.github.io/Self-AWare/), [ICTRL](https://evm7.github.io/I-CTRL/) and [ImitationNet](https://evm7.github.io/UnsH2R/), to **control any robot with multi-modal commands** while **adapting to its own expertise**.
-- 📖 [HOI4ABOT](https://evm7.github.io/HOI4ABOT_page/) and [I-CVAE](https://evm7.github.io/icvae-page/), a **multi-modal human intention reading** models for action recognition and prediction.
+- 🔭 I’m currently working on **Generative AI for Robotics**, **Human Intention Understanding** and **Multimodal Models**.  
+  - 📖 [ECHO](https://evm7.github.io/ECHO/), to generate **social-aware robots behaviors** conditioned on semantics, and without any robot data!
+  - 📖 [UNIMASKM](https://evm7.github.io/UNIMASKM-page/), a **universal** approach to address **all variations of motion synthesis task** with a simple masked model.
+  - 📖 [SAW](https://evm7.github.io/Self-AWare/), [ICTRL](https://evm7.github.io/I-CTRL/) and [ImitationNet](https://evm7.github.io/UnsH2R/), to **control any robot with multi-modal commands** while **adapting to its own expertise**.
+  - 📖 [HOI4ABOT](https://evm7.github.io/HOI4ABOT_page/) and [I-CVAE](https://evm7.github.io/icvae-page/), a **multi-modal human intention reading** models for action recognition and prediction.
 
 
 
