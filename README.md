@@ -17,8 +17,8 @@ Hi there, I am Esteve.
 |                                                   [ECHO](https://evm7.github.io/ECHO/)       |                                                   [SAW](https://evm7.github.io/Self-AWare/)              |                                                       [HOI4ABOT](https://evm7.github.io/HOI4ABOT_page/)           | 
 | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
 | <img src="https://evm7.github.io/images/echo.gif" width="250"/> | <img src="https://evm7.github.io/images/saw.gif" width="250"/>      | <img src="https://evm7.github.io/images/hoi4abot.png" width="250" /> |
-
-- 📫 How to reach me: [evallsmascaro@gmail.com](evallsmascaro@gmail.com)
+</div>
+- 📫 How to reach me: evallsmascaro@gmail.com
 
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenfengye)](https://github.com/anuraghazra/github-readme-stats) -->
