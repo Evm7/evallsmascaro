@@ -10,7 +10,7 @@ Hi there, I am Esteve.
 - 📫 How to reach me: [evallsmascaro@gmail.com](evallsmascaro@gmail.com)
 
 
-[![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://evm7.github.io/) [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=G1sfbqAAAAAJ) [![](https://img.shields.io/twitter/follow/ChrisChen?style=for-the-badge&logo=Twitter&labelColor=00acee&logoColor=white&color=2bc4ff)](https://twitter.com/valls_esteve)
+[![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://evm7.github.io/) [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=G1sfbqAAAAAJ) [![](https://img.shields.io/twitter/follow/valls_esteve?style=for-the-badge&logo=Twitter&labelColor=00acee&logoColor=white&color=2bc4ff)](https://twitter.com/valls_esteve)
 
 <div align="center">
 
@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <p>
-
   <a href="https://github.com/guochengqian">
 
   <img src="https://github-readme-stats.vercel.app/api?username=guochengqian&show_icons=true&theme=default&hide=contribs,issues" />
