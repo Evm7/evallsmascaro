@@ -6,7 +6,6 @@ Hi there, I am Esteve.
 - 📖 Recent works: [UNIMASKM](https://evm7.github.io/UNIMASKM-page/), a **universal** approach to address **all variations of motion synthesis task** with a simple masked model.
 - 📖 Recent works: [SAW](https://evm7.github.io/Self-AWare/), [ICTRL](https://evm7.github.io/I-CTRL/) and [ImitationNet](https://evm7.github.io/UnsH2R/), to **control any robot given multi-modal commands** while **adapting to its own limitations and expertise**.
 - 📖 Recent works: [HOI4ABOT](https://evm7.github.io/HOI4ABOT_page/) and [I-CVAE](https://evm7.github.io/icvae-page/), a **multi-modal human intention reading** models for action recognition and prediction.
-
 - 📫 How to reach me: [evallsmascaro@gmail.com](evallsmascaro@gmail.com)
 
 
