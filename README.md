@@ -9,7 +9,7 @@ Hi there, I am Esteve.
 
 
 
-[![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://evm7.github.io/) [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=G1sfbqAAAAAJ) [![](https://img.shields.io/twitter/follow/valls_esteve?style=for-the-badge&logo=Twitter&labelColor=00acee&logoColor=white&color=2bc4ff)](https://twitter.com/valls_esteve) [![](https://img.shields.io/badge/evallsmascaro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)(evallsmascaro@gmail.com)
+[![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://evm7.github.io/) [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=G1sfbqAAAAAJ) [![](https://img.shields.io/twitter/follow/valls_esteve?style=for-the-badge&logo=Twitter&labelColor=00acee&logoColor=white&color=2bc4ff)](https://twitter.com/valls_esteve) [![](https://img.shields.io/badge/evallsmascaro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](evallsmascaro@gmail.com)
 
 <div align="center">
 
